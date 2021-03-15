@@ -2,6 +2,8 @@
 
 made with **React** **Redux** **Firebase**
 
+preview at [click here](https://netflix-clone-ca517.web.app/)
+
 ![Landing Page](https://github.com/Astromium/Netflix-clone/blob/main/preview/pic1.png)
 
 ![Signup Page](https://github.com/Astromium/Netflix-clone/blob/main/preview/pic2.png)
